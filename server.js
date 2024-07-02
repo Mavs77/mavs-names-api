@@ -22,7 +22,7 @@ const players = {
     'age':34, 
     'birthName':'Klay Alexander Thompson ', 
     'birthLocation': 'Los Angeles, CA', 
-    'image': "./img/klay.jpg"
+    'image': "/img/klay.jpg"
 }, 
 'unknown':{
     'age':404, 
