@@ -10,25 +10,25 @@ const players = {
     'age':25, 
     'birthName':'Luka Dončić ', 
     'birthLocation': 'Ljubljana, Slovenia', 
-    'image': "./img/luka.avif"
+    'image': "/mavs-api/img/luka.avif"
 },
 'kyrie irving':{
     'age':32, 
     'birthName':'Kyrie Andrew Irving', 
     'birthLocation': 'Melbourne, Australia', 
-    'image': "./img/kyrie.webp"
+    'image': "/mavs-api/img/kyrie.webp"
 },
 'klay thompson':{
     'age':34, 
     'birthName':'Klay Alexander Thompson ', 
     'birthLocation': 'Los Angeles, CA', 
-    'image': "klay.jpg"
+    'image': "/mavs-api/img/klay.jpg"
 }, 
 'unknown':{
     'age':404, 
     'birthName':'unknown', 
     'birthLocation': 'unknown',
-    'image': "./img/404.webp" 
+    'image': "/mavs-api/img/404.webp" 
 }
 }
 
